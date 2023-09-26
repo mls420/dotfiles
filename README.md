@@ -18,6 +18,22 @@ If you have any questions, suggestions, or encounter any issues, don't hesitate 
 
 I can certainly help you with a tutorial to set up an i3wm environment on Ubuntu and perform the tasks you mentioned. Please note that my knowledge is based on information available up to September 2021, so there may have been updates or changes in software and package availability since then. Let's get started!
 
+### Quick installation (beta)
+To use this script, follow these steps:
+
+1. Copy the script into a file, e.g., `setup_i3wm.sh`.
+2. Make the script executable:
+
+   ```bash
+   chmod +x setup_i3wm.sh
+   ```
+
+3. Run the script with superuser privileges:
+
+   ```bash
+   sudo ./setup_i3wm.sh
+   ```
+
 ### Essential Software Setup
 
 **Step 1: Install Essential Programs**
