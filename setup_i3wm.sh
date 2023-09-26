@@ -32,8 +32,8 @@ cd i3lock-color
 # Build without installing
 ./build.sh
 
-# OR, build AND install
-# ./install-i3lock-color.sh
+# And install
+./install-i3lock-color.sh
 
 # Step 5: Configure touchpad for natural scrolling and tap to click
 touchpad_config="/etc/X11/xorg.conf.d/90-touchpad.conf"
