@@ -2,6 +2,8 @@
 
 Welcome to my i3wm dotfiles repository! This collection of configuration files and scripts represents the heart of my Linux desktop environment setup, centered around the versatile i3 window manager with gaps.
 
+![Screenshot](showOff.png)
+
 In this repository, you'll find meticulously crafted configuration files for i3wm, picom (for window transparency and effects), rofi (for application launching), thunar (as my lightweight file manager), and other essential tools like Vim, Git, and GIMP, each tailored to create a seamless and productive computing experience.
 
 These dotfiles not only set up the appearance and behavior of my workspace but also include instructions for installing and configuring critical components like Airblader's i3-gaps, Visual Studio Code, betterlock, and touchpad settings for natural scrolling and tap to click.
